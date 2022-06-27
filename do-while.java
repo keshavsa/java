@@ -1,4 +1,4 @@
-import java.util.Scanner
+import java.util.Scanner;
 public class do-while {
 
     public static void main(String[] args) {
@@ -17,7 +17,7 @@ public class do-while {
            b=d+c;
             
         }
-        while(n>=i)
+        while(n>=i);
         
     }
 }
