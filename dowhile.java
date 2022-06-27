@@ -1,10 +1,10 @@
 import java.util.Scanner;
-public class do-while {
+public class dowhile {
 
     public static void main(String[] args) {
-       int i=1,n,b,c,d;
+       int i=1,b,c,d;
         Scanner myObj =new Scanner(System.in);
-        System.out.println("Enter the username");
+        System.out.println("Enter the number that you want get febonacci ");
         int n=myObj.nextInt();
         b=0;
         c=1;
@@ -17,7 +17,7 @@ public class do-while {
            b=d+c;
             
         }
-        while(n>=i);
+        while(b<=n);
         
     }
 }
