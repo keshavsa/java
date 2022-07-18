@@ -1,4 +1,4 @@
-/* wap  that take 3 integer input from the user and calculate the
+ /* wap  that take 3 integer input from the user and calculate the
  maximum of the number & diplay it by usiing the return type method
  */
 import java.util.Scanner;
