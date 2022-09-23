@@ -18,6 +18,6 @@ public class oReturning {
   }
   public static void main(String[] args) {
     oReturning s1= new oReturning(4, 5);
-    s1.test();
+    s1.test(); 
   }
 }
